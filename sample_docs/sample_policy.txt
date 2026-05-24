@@ -1,0 +1,152 @@
+FIRST NATIONAL BANK — BSA/AML COMPLIANCE POLICY
+Version: 2024-01
+Effective Date: January 1, 2024
+Classification: Internal Use Only
+
+==============================================================================
+SECTION 1: SUSPICIOUS ACTIVITY REPORTING (SAR)
+==============================================================================
+
+1.1 Reporting Thresholds
+
+Financial institutions are required under 31 CFR § 1020.320 to file a
+Suspicious Activity Report (SAR) when:
+
+  • A transaction involves $5,000 or more in funds or other assets AND
+  • The institution knows, suspects, or has reason to suspect that the
+    transaction involves funds from illegal activity, is designed to evade
+    reporting requirements, lacks a lawful purpose, or involves use of the
+    institution to facilitate criminal activity.
+
+For wire transfers specifically, institutions must also comply with the
+FinCEN Travel Rule (31 CFR § 1010.410(f)), which requires transmitting
+institutions to pass along originator and beneficiary information for
+transfers of $3,000 or more.
+
+1.2 Filing Deadlines
+
+SARs must be filed within 30 calendar days of the date of the initial
+detection of facts that may constitute a basis for filing. If no suspect is
+identified, the institution may delay filing for an additional 30 days.
+In no case shall reporting be delayed more than 60 days.
+
+SARs are filed electronically via the FinCEN BSA E-Filing System
+(bsaefiling.fincen.treas.gov).
+
+1.3 Confidentiality
+
+No institution, director, officer, employee, or agent of a financial
+institution that files a SAR may notify any person involved in the transaction
+that the SAR has been reported. Violators may be subject to civil and
+criminal penalties.
+
+==============================================================================
+SECTION 2: CURRENCY TRANSACTION REPORTS (CTR)
+==============================================================================
+
+2.1 Threshold and Requirement
+
+A Currency Transaction Report must be filed for each transaction in currency
+(cash) that exceeds $10,000, or for multiple transactions that together exceed
+$10,000 if the institution has knowledge that they are by or on behalf of the
+same person and result in either cash-in or cash-out totaling more than $10,000
+during any one business day.
+
+CTRs must be filed within 15 calendar days of the transaction.
+
+2.2 Exemptions
+
+Certain customers may be designated as exempt from CTR reporting under
+31 CFR § 1020.315, including Phase I exempt persons (banks, government
+agencies, listed public companies) and Phase II exempt persons (non-listed
+businesses and payroll customers with established transaction history).
+
+==============================================================================
+SECTION 3: KNOW YOUR CUSTOMER (KYC) AND CUSTOMER DUE DILIGENCE
+==============================================================================
+
+3.1 Customer Identification Program (CIP)
+
+Under 31 CFR § 1020.220, the Bank must collect the following minimum
+information for all new individual account holders:
+
+  • Full legal name
+  • Date of birth
+  • Address (residential street address required; P.O. Box insufficient)
+  • Identification number (SSN for U.S. persons; passport/TIN for non-U.S.)
+
+For legal entities (corporations, LLCs, partnerships), the Bank must also
+collect information on beneficial owners who own 25% or more of the entity
+and one individual with significant managerial control.
+
+3.2 Enhanced Due Diligence (EDD)
+
+EDD is required for:
+  • Politically Exposed Persons (PEPs) and their immediate family members
+  • Customers from FATF high-risk or non-cooperative jurisdictions
+  • Correspondent banking relationships
+  • Private banking clients with assets exceeding $1 million
+  • Any customer presenting elevated risk indicators during onboarding
+
+EDD must include source of wealth and source of funds documentation.
+
+3.3 Ongoing Monitoring
+
+Customer risk profiles must be reviewed:
+  • Annually for high-risk customers
+  • Every two years for medium-risk customers
+  • Every three years for low-risk customers
+
+Triggers for out-of-cycle review include material changes in transaction
+patterns, adverse media hits, or changes in ownership/control.
+
+==============================================================================
+SECTION 4: OFAC SCREENING
+==============================================================================
+
+4.1 Screening Requirements
+
+All new customers and counterparties must be screened against the Office of
+Foreign Assets Control (OFAC) Specially Designated Nationals and Blocked
+Persons (SDN) List prior to account opening or transaction processing.
+
+Ongoing screening must occur:
+  • At each significant transaction (wires, ACH batches over $25,000)
+  • When the SDN List is updated (typically within one business day)
+  • Annually for the existing customer base
+
+4.2 Match Handling
+
+Any potential OFAC match must be escalated immediately to the BSA Officer.
+The transaction must be blocked or rejected pending review. A blocking or
+rejection report must be filed with OFAC within 10 business days.
+
+==============================================================================
+SECTION 5: RECORD RETENTION
+==============================================================================
+
+5.1 Retention Schedule
+
+  • SAR filings and supporting documentation: 5 years from filing date
+  • CTR filings: 5 years from filing date
+  • Wire transfer records (Travel Rule): 5 years from execution date
+  • CIP/KYC documentation: 5 years after account closure
+  • OFAC blocking/rejection reports: 5 years from date of report
+
+All records must be retrievable within a reasonable time period and must be
+made available to FinCEN, federal banking regulators, and law enforcement
+upon request.
+
+==============================================================================
+SECTION 6: TRAINING
+==============================================================================
+
+All Bank employees must complete BSA/AML training annually. Employees in
+customer-facing roles, wire operations, and the BSA/compliance function must
+complete role-specific training covering current red flags, typologies, and
+regulatory updates. Training completion is tracked in the Learning Management
+System (LMS) and is subject to audit.
+
+==============================================================================
+END OF DOCUMENT
+==============================================================================
