@@ -1,7 +1,8 @@
 """
 guardrails.py — Responsible AI guardrails for the compliance RAG assistant.
 
-Designed to be imported by rag_orchestrator.py and the Streamlit UI.
+Imported by rag_orchestrator.py and streamlit/app.py (Snowflake layer).
+A separate copy lives in azure_ui/ for the self-contained container deployment.
 All checks are fast (no LLM calls) so they add negligible latency.
 """
 
